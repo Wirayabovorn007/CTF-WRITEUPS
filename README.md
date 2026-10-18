@@ -31,14 +31,4 @@ ctf-writeups/
 └── README.md
 ```
 
-## 📝 Writeup Format
-
-Every writeup follows the same structure so they're easy to skim:
-
-1. **Overview**: category, points, difficulty, short description
-2. **Recon**: what I looked at first and why
-3. **Approach**: the thinking, including failed attempts
-4. **Solution**: step-by-step with commands and code
-5. **Takeaways**: what I learned and how to spot it next time
-
 🤝 [Instagram](https://www.instagram.com/wiraya.sh/) · [LinkedIn](https://www.linkedin.com/in/wiraya/)

@@ -76,4 +76,14 @@ Once we the options are set, we can start the exploitation. However, before we r
 we can use the `run` or `exploit` command to run the exploit
 
 
+## Types of Shells
+
+One way to connect to a compromised system is through network protocols, like SSH for Linux or WinRM for Windows, which would allow us a remote login to the compromised system. 
+
+
+| Type of Shell | Method of Communication |
+| --- | --- |
+| Reverse Shell | Connects back to our system and gives us control through a reverse connection. |
+| Bind Shell | Waits for us to connect to it and gives us control once we do. |
+| Web Shell | Communicates through a web server, accepts our commands through HTTP parameters, executes them, and prints back the output. |
 
