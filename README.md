@@ -7,7 +7,7 @@
 Writeups, notes, and lessons learned from the Capture The Flag challenges I play.
 Each writeup covers how I found the path, the dead ends along the way, and what I'd do differently next time. 
 
-If you spot a mistake or know a cleaner solution, feel free to open an issue :)
+**If you spot a mistake or know a cleaner solution, feel free to open an issue :)**
 
 
 
