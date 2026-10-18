@@ -17,6 +17,7 @@ If you spot a mistake or know a cleaner solution, feel free to open an issue :)
 | Date    | Name | Type | Writeup      |
 |---------|--------------------------------|--------------|--------------|
 | 2026-09 | CPTS - Hack the Box            | Cetification | [Link](./cpts) |
+| 2026-18 | Hack the Box            | Platform | [Link](./htb) |
 
 
 ## 📁 Repository Structure
