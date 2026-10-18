@@ -1,7 +1,8 @@
 # Space Explorer
 
 Dificulty: Fucking Easy
-Category: Web & API
+
+Category: Web
 
 ## 1. Explore POST requests
 
